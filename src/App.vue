@@ -2,7 +2,11 @@
   <div id="app">
     <main>
       <div class="search-box">
-        <input type="text" class="search-bar" placeholder="Search..." />
+        <input
+            type="text"
+            class="search-bar"
+            placeholder="Search..."
+        />
       </div>
 
       <div class="weather-wrap">
@@ -26,7 +30,8 @@ export default {
   name: 'App',
   data () {
     return {
-      api_key: '566e6813e5f8b01d4b0384f766491156'
+      api_key: '566e6813e5f8b01d4b0384f766491156',
+      url_base: 'https://api.openweathermap.org/data/2.5'
     }
   }
 }
@@ -106,5 +111,28 @@ main {
 
 .weather-box {
   text-align: center;
+}
+
+.weather-box .temp {
+  display: inline-block;
+  padding: 10px 25px;
+  color: white;
+  font-size: 102px;
+  font-weight: 900;
+
+  text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
+  background-color: rgba(255, 255, 255, 0.25);
+  border-radius: 16px;
+  margin: 30px 0;
+
+  box-shadow: 3px 6px rgba(0, 0, 0, 0.25);
+}
+
+.weather-box .weather {
+  font-size: 48px;
+  color: white;
+  font-weight: 700;
+  font-style: italic;
+  text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
 }
 </style>
