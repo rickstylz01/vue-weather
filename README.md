@@ -1,8 +1,8 @@
 # vue-weather
 
-https://github.com/rickstylz01/vue-weather/blob/master/src/assets/cold-bg.jpg
+https://user-images.githubusercontent.com/27748809/121088478-6dc69d00-c7ab-11eb-80de-3746062235ac.png
 
-https://github.com/rickstylz01/vue-weather/blob/master/src/assets/warm-bg.jpg
+https://user-images.githubusercontent.com/27748809/121088567-8d5dc580-c7ab-11eb-8938-8a44676b0c4d.png
 
 ## Project setup
 ```
