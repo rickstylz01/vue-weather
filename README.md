@@ -1,5 +1,9 @@
 # vue-weather
 
+https://github.com/rickstylz01/vue-weather/blob/master/src/assets/cold-bg.jpg
+
+https://github.com/rickstylz01/vue-weather/blob/master/src/assets/warm-bg.jpg
+
 ## Project setup
 ```
 npm install
