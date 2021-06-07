@@ -1,8 +1,8 @@
 # vue-weather
 
-https://user-images.githubusercontent.com/27748809/121088478-6dc69d00-c7ab-11eb-80de-3746062235ac.png
+![Screen Shot 2021-04-26 at 2 50 35 PM](https://user-images.githubusercontent.com/27748809/121088567-8d5dc580-c7ab-11eb-8938-8a44676b0c4d.png)
 
-https://user-images.githubusercontent.com/27748809/121088567-8d5dc580-c7ab-11eb-8938-8a44676b0c4d.png
+![Screen Shot 2021-04-26 at 2 50 50 PM](https://user-images.githubusercontent.com/27748809/121088746-d3b32480-c7ab-11eb-8153-7e2d4ff6d8ba.png)
 
 ## Project setup
 ```
